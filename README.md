@@ -27,7 +27,7 @@ Built using **HTML**, **CSS (Bootstrap 5)**, and **JavaScript**, the project sup
 ## 📌 Live Demo
 
 You can see the live site here:  
-👉 [https://your-username.github.io/ShoppersStop/](#)
+👉 [https://rameshwargithub2024.github.io/ShoppersStop/](#)
 
 ---
 
